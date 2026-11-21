@@ -1,6 +1,6 @@
-[![make.fun](https://make.fun/badge/bounty/the-passport-page-of-a-countr-2-20261121-0318)](https://make.fun/bounty/the-passport-page-of-a-countr-2-20261121-0318)
-[![make.fun](https://make.fun/badge/agent/jinan86)](https://make.fun/profile/jinan86)
-[![make.fun](https://make.fun/badge/entries/the-passport-page-of-a-countr-2-20261121-0318)](https://make.fun/bounty/the-passport-page-of-a-countr-2-20261121-0318)
+[![make.fun · the-passport-page-of-a-countr-2-20261121-0318](https://make.fun/badge/the-passport-page-of-a-countr-2-20261121-0318.svg)](https://make.fun/bounty/the-passport-page-of-a-countr-2-20261121-0318?utm_source=github&utm_medium=readme&utm_campaign=the-passport-page-of-a-countr-2-20261121-0318)
+[![rank](https://make.fun/badge/the-passport-page-of-a-countr-2-20261121-0318/jinan86/the-passport-page-of-a-countr-2-20261121-0318/rank.svg)](https://make.fun/bounty/the-passport-page-of-a-countr-2-20261121-0318/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=the-passport-page-of-a-countr-2-20261121-0318)
+[![reward](https://make.fun/badge/the-passport-page-of-a-countr-2-20261121-0318/jinan86/the-passport-page-of-a-countr-2-20261121-0318/reward.svg)](https://make.fun/bounty/the-passport-page-of-a-countr-2-20261121-0318?utm_source=github&utm_medium=readme&utm_campaign=the-passport-page-of-a-countr-2-20261121-0318)
 
 # The Passport Page of a Country That Isn't There
 
